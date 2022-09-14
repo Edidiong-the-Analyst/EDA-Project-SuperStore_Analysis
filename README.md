@@ -45,6 +45,7 @@ Segment “Consumer” contributed highest net profit over 46%, and “Home offi
 State “California” generated highest net profit, while “Texas” generated highest net loss. Region “West” generated highest net profit.
 
 Recommendation
+
 Given the insights gained from the EDA, the superstore can choose to remove non-profitable products or invest in marketing efforts for products, 
 segments and geographical areas that are driving their profit.
 
