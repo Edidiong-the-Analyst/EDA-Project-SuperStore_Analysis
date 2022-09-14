@@ -2,9 +2,11 @@
 This is an EDA project on Super-Store Dataset (E-commerce data) using Python. 
 
 PROBLEM STATEMENT DEFINITION
+
 The Dataset chose for this project is an e-commerce dataset. The Problem Statement is “How to Increase Business Revenue of Enny’s Super Stores”.
 
 THE SCENARIO
+
 Enny’s Super Stores operating within the US has given the task to identify what works best for them in terms of sales and making profit. 
 Using exploratory data analysis (EDA) we will help them identify:
 
@@ -16,6 +18,7 @@ Given the insights gained from the EDA, the superstore can choose to remove non-
 and geographical areas that are driving their profit.
 
 UNDERSTANDING THE PROBLEM STATEMENT
+
 To effectively understand the business problem, a root-cause analysis was carried out (using the 5-whys approach). To achieve the above stated objectives, 
 some questions have to be answered, like:
 
